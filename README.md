@@ -15,10 +15,10 @@ This repository contains the MVP project documentation for a Restaurant Discover
 
 | Document | Description |
 | --- | --- |
-| [Project Charter](01-project-charter.md) | Defines the project's background, purpose, objectives, scope, stakeholders, risks, milestones, and success criteria. |
-| [Requirements Specification](02-requirements-specification.md) | Defines user roles, user stories, functional and non-functional requirements, business rules, interfaces, security, privacy, and traceability. |
-| [Acceptance Criteria](03-acceptance-criteria.md) | Provides testable positive, negative, boundary, and error-handling scenarios for every MVP feature. |
-| [Database Design](04-database-design.md) | Defines the relational schema, entities, relationships, constraints, indexes, sample records, PostgreSQL statements, and Mermaid ER diagram. |
+| [Project Charter](docs/01-project-charter.md) | Defines the project's background, purpose, objectives, scope, stakeholders, risks, milestones, and success criteria. |
+| [Requirements Specification](docs/02-requirements-specification.md) | Defines user roles, user stories, functional and non-functional requirements, business rules, interfaces, security, privacy, and traceability. |
+| [Acceptance Criteria](docs/03-acceptance-criteria.md) | Provides testable positive, negative, boundary, and error-handling scenarios for every MVP feature. |
+| [Database Design](docs/04-database-design.md) | Defines the relational schema, entities, relationships, constraints, indexes, sample records, PostgreSQL statements, and Mermaid ER diagram. |
 
 ## Main MVP Assumptions
 
